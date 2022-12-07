@@ -173,11 +173,4 @@ p {
     position: static;
     transform: rotate(0);
   }
-  #title .container-fluid {
-    padding: 3% 7% 7%;
-  }
-  .nav-item {
-    padding: 3% 5%;
-  }
-
 }
