@@ -157,7 +157,7 @@ p {
 }
 
 @media (max-width: 1200px) {
-  #title {
+  .big-heading {
     text-align: center;
   }
   .title-image {
